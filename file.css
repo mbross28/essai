@@ -1,0 +1,17 @@
+body{
+    background-image: url("coeur.png");
+    background-color: black;
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-position: 50% 0%;
+}
+h1{
+    text-align: center;
+    color: white;
+    text-shadow: 2em silver;
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: white;
+}
